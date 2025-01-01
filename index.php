@@ -59,6 +59,3 @@ foreach($workDuration as $date) {
     }
     $i++;
 }
-
-
-?>
